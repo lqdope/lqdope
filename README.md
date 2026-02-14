@@ -7,7 +7,7 @@ I create designs and web apps
 ---
 
 ### 🎨 Design and Tools
-- **UI/UX Дизайн:** Figma, Photoshop
+- **UI/UX Design:** Figma, Photoshop
 
 ### 💻 Languages and technologies
 - **Web-design:** HTML, CSS
